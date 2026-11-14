@@ -1,0 +1,12 @@
+DSN1539 Graphic Design 4 - local course site
+
+To open the site: double-click index.html. No server is necessary.
+
+Folders
+  files/    documents that the pages link to (lectures, student examples, templates)
+  media/    images that are embedded in the pages
+  thumbs/   first-page previews of the PDF files
+  assets/   style sheet and Metropolis fonts (woff2)
+
+The site is a copy. The original files are still in the assignment folders.
+Source: Brightspace export of 25W DSN1539 010, made 14 November 2026.
